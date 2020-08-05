@@ -511,6 +511,23 @@ a {
   transition: 1s ease;
 }
 
+#section-3 .projects .project .pop-11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(50, 58, 69, 0.7);
+  text-align: center;
+  display: block;
+  padding: 80px 10px 0;
+  font-family: 'Jura', sans-serif;
+  color: #fff;
+  opacity: 0;
+  -webkit-transition: 1s ease;
+  transition: 1s ease;
+}
+
 #section-4 {
   padding: 20px 0 90px;
 }
