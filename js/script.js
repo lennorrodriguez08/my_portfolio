@@ -101,14 +101,6 @@ document.addEventListener("DOMContentLoaded", function() {
         document.querySelector(".pop-10").style.opacity = "0";
     })
 
-    // PROJECT 11
-    document.querySelector(".project-11").addEventListener("mouseover", function(e) {
-        document.querySelector(".pop-11").style.opacity = "1";
-    })
-
-    document.querySelector(".project-11").addEventListener("mouseleave", function(e) {
-        document.querySelector(".pop-11").style.opacity = "0";
-    })
 
     // ANIMATION FOR SECTION-1
     document.querySelector("#section-1-container").style.opacity = "1";
